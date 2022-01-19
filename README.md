@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr1liz
 - 👀 I’m interested in ... Gaming :))
-- 🌱 I’m currently learning ... Basic Javascript and web design (HTML & CSS) :D
+- 🌱 I’m currently learning ... Basic Javascript, web design, Python, and Scratch
 - 💞️ I’m looking to collaborate on ...  N/A
 - 📫 How to reach me ... Discord/Instagram ||Buisness Gmail- tr1lizegame@gmail.com
 
