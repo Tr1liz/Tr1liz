@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Javascript, html/css, Python, scratch, Cybersecurity (Networking and forenscics) 
 - 💞️ I’m looking to collaborate on ...  N/A
-- 📫 How to reach me ... Discord/Instagram ||Buisness Gmail- tr1lizegame@gmail.com
+- 📫 How to reach me ... Proffesional Instagram for information about me, Buisness email
 
 <!---
 Tr1liz/Tr1liz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
