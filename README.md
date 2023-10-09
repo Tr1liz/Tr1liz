@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr1liz
-- 👀 I’m interested in ... Gaming :))
-- 🌱 I’m currently learning ... Basic Javascript, html/css, Python, scratch, and a little cybersecurity
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... Javascript, html/css, Python, scratch, Cybersecurity (Networking and forenscics) 
 - 💞️ I’m looking to collaborate on ...  N/A
 - 📫 How to reach me ... Discord/Instagram ||Buisness Gmail- tr1lizegame@gmail.com
 
