@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr1liz
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Javascript, HTML/CSS, Python, scratch, Cybersecurity 
+- 🌱 I’m currently learning ... Javascript, HTML/CSS, Python, Cybersecurity 
 - 💞️ I’m looking to collaborate on ...  N/A
 - 📫 How to reach me ... Linkedin & Email!
 
