@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tr1liz
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Javascript, html/css, Python, scratch, Cybersecurity (Networking and forenscics) 
+- 🌱 I’m currently learning ... Javascript, HTML/CSS, Python, scratch, Cybersecurity 
 - 💞️ I’m looking to collaborate on ...  N/A
-- 📫 How to reach me ... Proffesional Instagram for information about me, Buisness email
+- 📫 How to reach me ... Linkedin & Email!
 
 <!---
 Tr1liz/Tr1liz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
